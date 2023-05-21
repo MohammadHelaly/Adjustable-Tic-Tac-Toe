@@ -19,7 +19,7 @@
 ## Features
   - Two-player gameplay
   - Customizable game board size
-  - Interactive command-line interface
+  - Interactive console interface
 ## Future Improvements
   - Adding a graphical user interface (GUI) for a more user-friendly experience
   - Adding an AI opponent for single-player gameplay
